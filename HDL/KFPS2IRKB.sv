@@ -1,6 +1,6 @@
 //
 // KFPS2IRKB
-// 
+// PS/2 keyboard converter for PCjr
 //
 // Written by kitune-san
 //
